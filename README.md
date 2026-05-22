@@ -6,10 +6,6 @@
 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐌𝐚𝐧𝐚𝐠𝐞𝐫 · 𝟏𝟓+ 𝐘𝐞𝐚𝐫𝐬 · 𝐑𝐞𝐚𝐜𝐭 · 𝐍𝐨𝐝𝐞 · 𝐏𝐲𝐭𝐡𝐨𝐧 · 𝐀𝐖𝐒 · 𝐀𝐠𝐢𝐥𝐞 · 𝐒𝐜𝐫𝐮𝐦
 </p>
 
-<p align="center">
-  <a href="mailto:upwork@pathwrk.co">📫 upwork@pathwrk.co</a>
-</p>
-
 ---
 
 ## Hey there 👋
@@ -72,5 +68,4 @@ Technical expertise + strategic project leadership → scalable, business-driven
 
 <p align="center">
 <b>𝐋𝐞𝐭’𝐬 𝐜𝐨𝐧𝐧𝐞𝐜𝐭 𝐚𝐧𝐝 𝐜𝐫𝐞𝐚𝐭𝐞 𝐢𝐦𝐩𝐚𝐜𝐭𝐟𝐮𝐥 𝐝𝐢𝐠𝐢𝐭𝐚𝐥 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞𝐬 𝐭𝐨𝐠𝐞𝐭𝐡𝐞𝐫.</b><br/><br/>
-<a href="mailto:upwork@pathwrk.co">📧 upwork@pathwrk.co</a>
 </p>
